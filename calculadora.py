@@ -11,7 +11,7 @@ print("Digite um numero")
 numero1 = int(input())
 
 print("Digite um operador")
-operador = int(input())
+operador = input()
 
 print("Digite um segundo numero")
 numero2 = int(input())
